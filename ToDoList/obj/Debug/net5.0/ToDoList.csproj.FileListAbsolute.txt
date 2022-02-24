@@ -1,0 +1,28 @@
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ref\ToDoList.dll
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+C:\Users\Kendotronic\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.exe
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ref\ToDoList.dll
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\Users\Kendotronic\Desktop\EPICODUS CSHARP\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
