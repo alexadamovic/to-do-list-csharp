@@ -13,9 +13,12 @@
   @Html.HiddenFor(model => model.ItemId)
 
   @Html.LabelFor(model => model.Description)
-  @Html.EditorFor(model => model.Description)
-
-  @Html.LabelFor(model => model.Category)
+  @Html.Editor("Description")<br>
+  
+  @Html.LabelFor(model => model.Complete)
+  @Html.CheckBox("Complete")<br>
+  
+  @Html.Label("Select category")
   @Html.DropDownList("CategoryId")
 
   <input type="submit" value="Save" />
